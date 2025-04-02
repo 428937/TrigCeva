@@ -8,7 +8,7 @@ This known as Ceva's Theorem. The theorem also has a lesser-known trigonometric 
 
 (sin(∠ABE) / sin(∠CBE)) * (sin(∠BCF) / sin(∠ACF)) * (sin(∠CAD) / sin(∠BAD)) = 1
 
-or equivalently,
+or equivalently
 sin(∠ABE) * sin(∠BCF) * sin(∠CAD) = sin(∠CBE) * sin(∠ACF) * sin(∠BAD).
 
 This code solves for an unknown angle in the trigonometric Ceva equation. For further information please check, 
